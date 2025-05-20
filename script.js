@@ -1038,9 +1038,9 @@ let soundEnabled = true;
 
 // Sound effects
 const sounds = {
-  correct: new Audio('https://assets.mixkit.co/active_storage/sfx/2190/2190-preview.mp3'),
-  wrong: new Audio('https://assets.mixkit.co/active_storage/sfx/2194/2194-preview.mp3'),
-  complete: new Audio('https://assets.mixkit.co/active_storage/sfx/2013/2013-preview.mp3')
+  correct: new Audio('https://2assets.mixkit.co/active_storage/sfx/2190/2190-preview.mp3'),
+  wrong: new Audio('https://2assets.mixkit.co/active_storage/sfx/2194/2194-preview.mp3'),
+  complete: new Audio('https://2assets.mixkit.co/active_storage/sfx/2013/2013-preview.mp3')
 };
 
 // DOM Elements
